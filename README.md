@@ -1,7 +1,5 @@
 # Neon Dusk Circuit (Browser 3D Racing)
 
-> **Opace open-source portfolio:** [Browse Opace 3D projects, interactive web applications, AI tools and Agent Skills](https://github.com/OpaceDigitalAgency/OpaceDigitalAgency)
-
 Browser-playable 3D racing game built with **Vite + Babylon.js** and deployable to **Netlify**.
 
 ## Features
@@ -35,25 +33,3 @@ npm run dev
 
 - This repo includes `netlify.toml` (build command `npm run build`, publish dir `dist`).
 - In Netlify: “New site from Git” → select repo → deploy.
-
-
----
-
-## About Opace Digital Agency
-
-This project is developed and maintained by **Opace Digital Agency**, a Birmingham-based web design and development agency specializing in modern web solutions.
-
-### Our Services
-
-- **Web Design & Development** - Professional, responsive websites
-- **Next.js & React Development** - Modern web applications
-- **Frontend Development** - Cutting-edge user interfaces
-- **WordPress Development** - Custom themes and plugins
-- **E-commerce Solutions** - Scalable online stores
-
-### Get in Touch
-
-- 🌐 Website: [opace.agency](https://opace.agency)
-- 📧 Services: [Web Design & Development](https://opace.agency/services/web-design)
-- 💼 GitHub: [@OpaceDigitalAgency](https://github.com/OpaceDigitalAgency)
-- 📍 Location: Birmingham, UK
